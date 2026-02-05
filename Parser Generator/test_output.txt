@@ -1,0 +1,18 @@
+Enter statements (e.g., if (x > 5) { y = 1; } else { y = 0; }):
+Parsed: Expression Statement
+Parsed: Expression Statement
+Parsed: IF Statement
+Parsed: Expression Statement
+Parsed: Expression Statement
+Parsed: Expression Statement
+Parsed: IF-ELSE Statement
+Parsed: Expression Statement
+Parsed: Expression Statement
+Parsed: IF-ELSE Statement
+LEXICAL ERROR: Invalid Identifier '99error'
+Parsed: IF Statement
+Parsed: Expression Statement
+Syntax Error: syntax error
+Parsed: Expression Statement
+Parsed: IF Statement
+Parsed: Expression Statement
